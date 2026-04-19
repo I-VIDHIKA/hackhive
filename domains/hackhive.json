@@ -1,0 +1,11 @@
+{
+    "description": "AI-powered hackathon aggregator",
+    "repo": "https://github.com/I-VIDHIKA/hackhive",
+    "owner": {
+        "username": "I-VIDHIKA",
+        "email": "ividhika@gmail.com"
+    },
+    "record": {
+        "CNAME": "I-VIDHIKA.github.io"
+    }
+}
